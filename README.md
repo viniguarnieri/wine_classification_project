@@ -32,13 +32,17 @@
   Step 07. Use the model to predict the column 'WineVariety' of the new two wine samples.
 
 # 4. Machine Learning Model Applied
-    - Logistic Regression
+Logistic Regression
   
 # 5. Machine Learning Model Performance 
 ### Metrics
 | Accuracy  | Overall Precision | Overall Recall  | Average AUC | 
 | ------------- | ------------- | ------------- | ------------- |
 | 0.9815 | 0.9762  | 0.9848 | 0.9990 |
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126209562/230550685-d58b2e7d-13a6-4be8-b008-b719a530b1e5.png" width="700px" />
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/126209562/230531900-bf6b2386-6385-401b-9ad8-d325923a1250.png" width="700px" />
