@@ -41,11 +41,11 @@ Logistic Regression
 | 0.9815 | 0.9762  | 0.9848 | 0.9990 |
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/126209562/230550685-d58b2e7d-13a6-4be8-b008-b719a530b1e5.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/126209562/230550685-d58b2e7d-13a6-4be8-b008-b719a530b1e5.png" width="600px" />
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/126209562/230531900-bf6b2386-6385-401b-9ad8-d325923a1250.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/126209562/230531900-bf6b2386-6385-401b-9ad8-d325923a1250.png" width="600px" />
 </div>
 
 # 6. Results 
